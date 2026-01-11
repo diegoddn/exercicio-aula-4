@@ -81,6 +81,16 @@ section#planos {
   padding: 48px 0;
 }
 
+footer {
+  padding: 24px;
+}
+
+footer > p {
+  color: grey;
+  text-align: center;
+  font-size: 14px;
+}
+
 a#botao-flutuante {
   position: fixed;
   bottom: 25px;
@@ -90,14 +100,4 @@ a#botao-flutuante {
 
 a#botao-flutuante > img {
   width: 60px;
-}
-
-footer {
-  padding: 24px;
-}
-
-footer > p {
-  color: grey;
-  text-align: center;
-  font-size: 14px;
 }
